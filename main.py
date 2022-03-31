@@ -134,7 +134,7 @@ class ClassA(ClassB):
                 point= 0
                 for bye in ip.split(":"):
                     if len(bye)>2:
-                        print(point)
+                        #print(point)
                         point +=1
                 if len(ip.split(":")[0])>2:
                     point +=1
