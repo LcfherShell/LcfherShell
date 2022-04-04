@@ -13,24 +13,24 @@ What you get:
 
   - Windows:
   
-    `python -m pip install pynet`
+    `python -m pip install pyInet`
   
   - Unix or Mac:
   
-    `pip install pynet`
+    `pip install pyInet`
   
 - GIT
 
   - Windows, Unix and Mac:
   
     ````
-       git clone https://github.com/LcfherShell/pynet
-       cd passwordtest
+       git clone https://github.com/LcfherShell/pyInet
+       cd pyInet
        python -m pip install . or python setup.py
     ````
 ### Usage Example
 ```````````````````````````````````````````````
-from pynet import ClassA, ClassB
+from pyInet import ClassA, ClassB
 child = ClassA #Public Class
 network = ClassB #Private Class
 
