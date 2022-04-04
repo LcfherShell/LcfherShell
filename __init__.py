@@ -7,7 +7,7 @@ sys.path.insert(0, path)
 try:
 	from main import ClassA, ClassB, SaveContext, CleanContext
 except:
-	from pynet.main import ClassA, ClassB, SaveContext, CleanContext
+	from pyInet.main import ClassA, ClassB, SaveContext, CleanContext
 	#except:
 	#	from .main import ClassA, ClassB
 	
