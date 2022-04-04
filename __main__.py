@@ -2,9 +2,9 @@ try:
     from main import ClassA, ClassB
 except:
     try:
-        from pynet import ClassA, ClassB
+        from pyInet import ClassA, ClassB
     except:
-        from pynet.main import ClassA, ClassB
+        from pyInet.main import ClassA, ClassB
         
 if __name__ == "__main__":
       child = ClassA #Public Class
