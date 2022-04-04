@@ -1,0 +1,3 @@
+functools == 5
+Cython >= 0.29.28
+six >= 1.16.0
