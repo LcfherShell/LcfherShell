@@ -228,6 +228,10 @@ class ClassA(ClassB):
     def Int_2_IPv4(numb)->None:
         int2ip = lambda n: '.'.join([str(n >> (i << 3) & 0xFF) for i in range(0, 4)[::-1]])
         return str(int2ip(int(numb)))
+      
+    @lru_cache(maxsize=None)
+    def IPv4_2_bin(ip=None)->None:
+        return [bin(int(x)+256)[3:] for x in ip.split('.')]
 
     @lru_cache(maxsize=None)
     def IPv6_Calculator(ip=None)->None:
