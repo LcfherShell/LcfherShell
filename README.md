@@ -1,4 +1,4 @@
-# pynet
+# pyInet
 Python module that works to manipulate IPv4/6 addresses, calculate Network/IP addresses. 
 What you get:
 1. ip validation by class or ip version
