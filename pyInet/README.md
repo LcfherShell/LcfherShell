@@ -1,7 +1,7 @@
 # pyInet
 This is a file system
 
-You can find this module via this link:
+You can find this module via the link:
 <h4 align="left">
   <p align="left">
     <a href="https://pypi.org/user/alfiandecker2" target="blank">https://pypi.org/user/alfiandecker2/</a>
