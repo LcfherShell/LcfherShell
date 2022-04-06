@@ -1,6 +1,10 @@
 # pyInet
+## _Free Module & Tools Networking in Python_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/LcfherShell/pyInet)
+[![Join Discussion](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/LcfherShell/pyInet)
+[![Python Net](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/LcfherShell/pyInet)
+
 Python module that works to manipulate IPv4/6 addresses, calculate Network/IP addresses. 
 What you get:
 1. ip validation by class or ip version
