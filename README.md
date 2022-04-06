@@ -2,7 +2,7 @@
 ## _Free Module & Tools Networking in Python_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/LcfherShell/pyInet)
-[![Join Discussion](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/LcfherShell/pyInet)
+[![Join Discussion](https://github.com/LcfherShell/local_svg/blob/main/gitnet3.svg)](https://github.com/LcfherShell/pyInet)
 [![Python Net](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/LcfherShell/pyInet)
 
 Python module that works to manipulate IPv4/6 addresses, calculate Network/IP addresses. 
