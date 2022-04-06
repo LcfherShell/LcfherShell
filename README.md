@@ -1,10 +1,10 @@
 # pyInet
 ## _Free Module & Tools Networking in Python_
 
-[![Build Status](https://github.com/LcfherShell/local_svg/blob/main/beta.svg)](https://github.com/LcfherShell/pyInet)
+[![Beta Status](https://github.com/LcfherShell/local_svg/blob/main/beta.svg)]
 [![Python Net](https://github.com/LcfherShell/local_svg/blob/main/gitnet.svg)](https://github.com/LcfherShell/pyInet)
-[![C-ython](https://github.com/LcfherShell/local_svg/blob/main/c-ython.svg)](https://github.com/LcfherShell/pyInet)
-[![LFHER](https://github.com/LcfherShell/local_svg/blob/main/lcfhershell.svg)](https://github.com/LcfherShell/pyInet)
+[![C-ython](https://github.com/LcfherShell/local_svg/blob/main/c-ython.svg)](https://github.com/cython)
+[![LFHER](https://github.com/LcfherShell/local_svg/blob/main/lcfhershell.svg)](https://github.com/LcfherShell)
 
 Python module that works to manipulate IPv4/6 addresses, calculate Network/IP addresses. 
 What you get:
