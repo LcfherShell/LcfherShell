@@ -35,7 +35,7 @@ What you get:
        python -m pip install . or python setup.py
     ````
 ### Usage Example
-```````````````````````````````````````````````
+```python
 from pyInet import ClassA, ClassB
 child = ClassA #Public Class
 network = ClassB #Private Class
@@ -74,7 +74,7 @@ for y in range(0, 33):
 child.IPv6_Calculator(ipv6range)
 print(child.saving.output)
 
-```````````````````````````````````````````````
+```
 You can find or find this module via this link:
 <h4 align="left">
   <p align="left">
