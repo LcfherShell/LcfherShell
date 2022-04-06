@@ -1,6 +1,6 @@
 # pyInet
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Merah](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 Python module that works to manipulate IPv4/6 addresses, calculate Network/IP addresses. 
 What you get:
 1. ip validation by class or ip version
