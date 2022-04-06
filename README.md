@@ -1,7 +1,7 @@
 # pyInet
 ## _Free Module & Tools Networking in Python_
 
-[![Beta Status](https://github.com/LcfherShell/local_svg/blob/main/beta.svg)]
+[![Beta Status](https://github.com/LcfherShell/local_svg/blob/main/beta.svg)](#)
 [![Python Net](https://github.com/LcfherShell/local_svg/blob/main/gitnet.svg)](https://github.com/LcfherShell/pyInet)
 [![C-ython](https://github.com/LcfherShell/local_svg/blob/main/c-ython.svg)](https://github.com/cython)
 [![LFHER](https://github.com/LcfherShell/local_svg/blob/main/lcfhershell.svg)](https://github.com/LcfherShell)
