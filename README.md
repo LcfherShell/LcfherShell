@@ -1,8 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/LcfherShell/LcfherShell/blob/PyInet-0.1/bc6c171eee288a2f1e124c749303b24e.gif">
-
+<div class="tenor-gif-embed" data-postid="16623137" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/futuristic-cyber-space-car-building-gif-16623137">Futuristic Cyber GIF</a>from <a href="https://tenor.com/search/futuristic-gifs">Futuristic GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LcfherShell&label=Profile%20views&color=0e75b6&style=flat" alt="LcfherShell" /> </p>
 
