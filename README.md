@@ -1,4 +1,4 @@
-[![MasterHead] add_image_size( 'https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif', 2120, 1100, array( 'center', 'center' ) ) ](https://github.com/LcfherShell/)
+[![MasterHead] (https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif) ](https://github.com/LcfherShell/)
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
