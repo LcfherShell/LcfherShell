@@ -36,7 +36,12 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
 
 ---
 
+
+<table>
+<tr>
 <img align="left" width="18%" height="18%" src="./tGYdgD7h7d-unscreen%20(1).gif"/>
+</tr>
+<tr>
 
 ### Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -72,9 +77,9 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45">
   </div>
-    <br>
 </div>
-<br>
+</tr>
+</table>
 
 
 ---
