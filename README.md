@@ -6,10 +6,12 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
 <div align="flex-start">
     <img align="right" alt="Coding" height="272" src="https://media.giphy.com/media/KZR7YUnoPxcLcnJuLE/giphy.gif">
     <p align="left">
-        <a href="https://twitter.com/LCFHERSHELL" target="blank">
-            <img src="https://img.shields.io/twitter/follow/LcfherShell?logo=x&style=for-the-badge" alt="LcfherShell" />
-        </a>
-        <div align="right">
+        <div align="flex-end">
+            <a href="https://twitter.com/LCFHERSHELL" target="blank">
+                <img src="https://img.shields.io/twitter/follow/LcfherShell?logo=x&style=for-the-badge" alt="LcfherShell" />
+            </a>
+        </div>
+        <div align="flex-start">
             <img src="https://komarev.com/ghpvc/?username=LcfherShell&label=Profile%20views&color=0e75b6&style=flat" alt="LcfherShell" />
         </div>
     </p>
