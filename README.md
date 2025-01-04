@@ -37,24 +37,53 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
 ---
 ### Languages and Tools:
 ### Languages:
-- [C](https://www.w3schools.com/c/) - ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-- [C++](https://www.w3schools.com/cpp/) - ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-- [Java](https://www.java.com) - ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-- [Python](https://www.python.org) - ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-- [Dart](https://dart.dev) - ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)
-- [Kotlin](https://kotlinlang.org) - ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
-- [Go](https://golang.org/) - ![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg)
-
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="C" width="45" height="45"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="C++" width="45" height="45"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45" height="45"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="45" height="45"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45"/>
+  </a>
+</p>
 ### Frameworks:
-- [Angular](https://angular.io) - ![Angular](https://angular.io/assets/images/logos/angular/angular.svg)
-- [AngularJS](https://angular.io) - ![AngularJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg)
-- [React](https://reactjs.org/) - ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-- [React Native](https://reactnative.dev/) - ![React Native](https://reactnative.dev/img/header_logo.svg)
-- [Next.js](https://nextjs.org/) - ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)
-- [Node.js](https://nodejs.org) - ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-- [Express.js](https://expressjs.com) - ![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-
+<p align="left" color="white">
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="45" height="45"/>
+  </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/angularjs/angularjs-icon.svg" alt="AngularJS" width="45" height="45"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="45" height="45"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/reactnative/reactnative-icon.svg" alt="React Native" width="45" height="45"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="45" height="45"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="45" height="45"/>
+  </a>
+  <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="45" height="45"/>
+  </a>
+</p>
 ### Tools:
 - [Docker](https://www.docker.com/) - ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
 - [Git](https://git-scm.com/) - ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
@@ -71,9 +100,17 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
 - [Bootstrap](https://getbootstrap.com) - ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
 
 ### Database and Storage:
-- [MongoDB](https://www.mongodb.com/) - ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-- [MySQL](https://www.mysql.com/) - ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-
+<p align="left" color="white">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://mongodb.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45"/>
+  </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/>
+  </a>
+</p>
 ### Design & UI/UX:
 - [Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html) - ![Adobe Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg)
 - [Adobe XD](https://www.adobe.com/products/xd.html) - ![Adobe XD](https://cdn.worldvectorlogo.com/logos/adobe-xd.svg)
