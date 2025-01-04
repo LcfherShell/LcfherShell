@@ -35,7 +35,8 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@nonamearmyid50)
 
 ---
-<img align="left" width="20%" height="20%" src="./tGYdgD7h7d-unscreen%20(1).gif"/>
+
+<img align="left" width="18%" height="18%" src="./tGYdgD7h7d-unscreen%20(1).gif"/>
 
 ### Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
