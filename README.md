@@ -36,8 +36,6 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
 
 ---
 ### Tech Stack:
-
-#### -Languages:
 <div style="align:left; color: white;">
   <a style="text-decoration:none" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
@@ -60,10 +58,6 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
   <a style="text-decoration:none" href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45"/>
   </a>
-</div>
-
-#### -Frameworks:
-<div style="align:left; color: white;">
   <a style="text-decoration:none" href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="45" height="45"/>
   </a>
@@ -79,10 +73,6 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
   <a style="text-decoration:none" href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="45" height="45"/>
   </a>
-</div>
-
-#### -Tools:
-<div style="color: white;">
   <a style="text-decoration:none" href="https://www.docker.com/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
   </a>
@@ -104,10 +94,6 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
   <a style="text-decoration:none" href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="45" height="45"/>
   </a>
-</div>
-
-#### -Library / Platforms:
-<div style="color: white;">
   <a style="text-decoration:none" href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/>
   </a>
@@ -120,10 +106,6 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
   <a style="text-decoration:none" href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45"/>
   </a>
-</div>
-
-#### -Database and Storage:
-<div style="color: white;">
   <a style="text-decoration:none" href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/>
   </a>
@@ -133,10 +115,6 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
   <a style="text-decoration:none" href="https://graphql.org" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/>
   </a>
-</div>
-
-#### -Design & UI/UX:
-<div style="color: white;">
   <a style="text-decoration:none" href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
   </a>
