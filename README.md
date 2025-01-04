@@ -30,9 +30,9 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
 
 ### Connect with me:
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/LCFHERSHELL) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ramsyan1928/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@nonamearmyid50)
+[![LCFHERSHELL](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/LCFHERSHELL) 
+[![ramsyan1928](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ramsyan1928/)
+[![nonamearmyid50](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@nonamearmyid50)
 
 ---
 
