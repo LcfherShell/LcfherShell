@@ -36,29 +36,19 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
 
 ---
 ### Tech Stack:
-
-#### Languages:
-<div style="color: white;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45">
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45">
-</div>
-
-#### Frameworks:
-<div style="color: white;">
    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="45" height="45">
-</div>
-
-#### Tools:
-<div style="color: white;">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45">
@@ -66,32 +56,16 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="45" height="45">
-</div>
-
-#### Library / Platforms:
-<div style="color: white;">
    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45">
    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="Amplify" width="45" height="45">
    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" height="45">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45">
-</div>
-
-#### Database and Storage:
-<div style="color: white;">
    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45">
-</div>
-
-#### Design & UI/UX:
-<div style="color: white;">
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="45" height="45"/>
+   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="45" height="45"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Adobe XD" width="45" height="45"/>
-</div>
-
-#### Systems & Platforms:
-<div style="color: white;">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45">
 </div>
 
