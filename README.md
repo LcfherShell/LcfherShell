@@ -36,9 +36,9 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
 
 ---
 
+  <img align="left" width="46% auto" height="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&fontAlign=0&descAlignY=59&descAlign=49&fontAlignY=0&reversal=false"/>
 ### Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img align="left" width="46% auto" height="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&fontAlign=0&descAlignY=59&descAlign=49&fontAlignY=0&reversal=false"/>
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45">
