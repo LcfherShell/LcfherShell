@@ -36,10 +36,9 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
 
 ---
 
-<img align="left" width="20%" height="20%" src="./tGYdgD7h7d-unscreen%20(1).gif"/>
-
-### Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img align="left" width="20%" height="20%" src="./tGYdgD7h7d-unscreen%20(1).gif"/>
+  ### Tech Stack:
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45">
