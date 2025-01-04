@@ -3,26 +3,22 @@
 
 As a Full Stack Developer, I am deeply passionate about coding, problem-solving, and creating digital experiences. Since starting my journey in 2019 as a self-taught developer, I have developed expertise in several programming languages, with Python being my primary strength. My dedication to continuous learning has allowed me to master various technologies, enabling me to build robust and scalable web applications and software solutions. I thrive on challenges, constantly improving my skills to stay ahead in the ever-evolving tech landscape.
 <div align="center">
-    <div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 15px;">
-        <img align="center" alt="Coding" height="272" src="https://media.giphy.com/media/KZR7YUnoPxcLcnJuLE/giphy.gif">
-        <p align="left"> 
-            <img src="https://komarev.com/ghpvc/?username=LcfherShell&label=Profile%20views&color=0e75b6&style=flat" alt="LcfherShell" />
-        </p>
-        <p>
-            <a href="https://twitter.com/LCFHERSHELL" target="blank">
-                <img src="https://img.shields.io/twitter/follow/LcfherShell?logo=x&style=for-the-badge" alt="LcfherShell" />
-            </a> 
-        </p>
-        <ul align="flex-start">
-            <li>🔭 I’m currently working on **-|-**</li>
-            <li>🌱 I’m currently learning **DevOps**</li>
-            <li>💬 Ask me about **Android, MEARN**</li>
-            <li>📫 How to reach me **lcfhershell@tutanota.com**</li>
-            <li>⚡ Fun fact: **I love solving coding puzzles and exploring new technologies.**</li>
-        </ul>
-    </div>
-</div>
+    <img align="right" alt="Coding" height="272" src="https://media.giphy.com/media/KZR7YUnoPxcLcnJuLE/giphy.gif">
+    <p align="flex-start"> 
+        <img src="https://komarev.com/ghpvc/?username=LcfherShell&label=Profile%20views&color=0e75b6&style=flat" alt="LcfherShell" />
+    </p>
+    <p align="flex-start"> 
+        <a href="https://twitter.com/LCFHERSHELL" target="blank">
+            <img src="https://img.shields.io/twitter/follow/LcfherShell?logo=x&style=for-the-badge" alt="LcfherShell" />
+        </a> 
+    </p>
 
+    - 🔭 I’m currently working on **-|-**
+    - 🌱 I’m currently learning **DevOps**
+    - 💬 Ask me about **Android, MEARN**
+    - 📫 How to reach me **lcfhershell@tutanota.com**
+    - ⚡ Fun fact: **I love solving coding puzzles and exploring new technologies.**
+</div>
 ---
 
 ### Connect with me:
