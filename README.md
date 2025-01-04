@@ -38,9 +38,7 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
 
 ### Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <p align="right">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-    </p>
+<img align="right" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="45" height="45">
