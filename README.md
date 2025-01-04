@@ -1,23 +1,3 @@
-<style>
-    table {
-      width: 100%;
-      margin-bottom: 20px;
-    }
-    td {
-      text-align: center;
-      padding: 10px;
-    }
-    a {
-      text-decoration: none;
-    }
-    img {
-      width: 45px;
-      height: 45px;
-    }
-    h3, h4 {
-      color: black;
-    }
-</style>
 [![MasterHead](https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif) ](https://github.com/LcfherShell/)
 # Hi 👋, I'm Ramsyan Tungga
 
@@ -57,69 +37,38 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
 ---
 ### Tech Stack:
 
-#### Languages:
-<table>
-  <tr>
-    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/></a></td>
-    <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/></a></td>
-    <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="45" height="45"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="45" height="45"/></a></td>
-    <td><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45" height="45"/></a></td>
-    <td><a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="45" height="45"/></a></td>
-    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45"/></a></td>
-  </tr>
-</table>
+# Tech Stack
 
-#### Frameworks:
-<table>
-  <tr>
-    <td><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="45" height="45"/></a></td>
-    <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="45" height="45"/></a></td>
-    <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="45" height="45"/></a></td>
-    <td><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="45" height="45"/></a></td>
-    <td><a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="45" height="45"/></a></td>
-  </tr>
-</table>
+## -Languages:
+| C | C++ | Java | JavaScript | Kotlin | Dart | Python |
+|---|-----|------|------------|--------|------|--------|
+| ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) | ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) | ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) | ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg) | ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg) | ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg) |
 
-#### Tools:
-<table>
-  <tr>
-    <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/></a></td>
-    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a></td>
-    <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/></a></td>
-    <td><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/></a></td>
-    <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/></a></td>
-    <td><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/></a></td>
-    <td><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="45" height="45"/></a></td>
-  </tr>
-</table>
+## -Frameworks:
+| Angular | React | Node.js | Express | Flask |
+|---------|-------|---------|---------|-------|
+| ![Angular](https://www.vectorlogo.zone/logos/angular/angular-icon.svg) | ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) | ![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) | ![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg) | ![Flask](https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg) |
 
-#### Library / Platforms:
-<table>
-  <tr>
-    <td><a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/></a></td>
-    <td><a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="Amplify" width="45" height="45"/></a></td>
-    <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" height="45"/></a></td>
-    <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45"/></a></td>
-  </tr>
-</table>
+## -Tools:
+| Docker | Git | Firebase | Postman | Figma | TensorFlow | Unity |
+|--------|-----|----------|---------|-------|------------|-------|
+| ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) | ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) | ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) | ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) | ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg) |
 
-#### Database and Storage:
-<table>
-  <tr>
-    <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/></a></td>
-    <td><a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45"/></a></td>
-    <td><a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/></a></td>
-  </tr>
-</table>
+## -Library / Platforms:
+| Flutter | Amplify | Arduino | Bootstrap |
+|---------|---------|---------|-----------|
+| ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) | ![Amplify](https://docs.amplify.aws/assets/logo-dark.svg) | ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg) | ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) |
 
-#### Design & UI/UX:
-<table>
-  <tr>
-    <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/></a></td>
-    <td><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45"/></a></td>
-  </tr>
-</table>
+## -Database and Storage:
+| MySQL | MongoDB | GraphQL |
+|-------|---------|---------|
+| ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg) | ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) | ![GraphQL](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg) |
+
+## -Design & UI/UX:
+| Linux | Google Cloud |
+|-------|--------------|
+| ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) | ![Google Cloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) |
+
 
 ---
 
