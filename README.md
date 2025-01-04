@@ -12,11 +12,12 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
         <img src="https://komarev.com/ghpvc/?username=LcfherShell&label=Profile%20views&color=0e75b6&style=flat" alt="LcfherShell" />
     </p>
 </div>
-    - 🔭 I’m currently working on **-|-**
-    - 🌱 I’m currently learning **DevOps**
-    - 💬 Ask me about **Android, MEARN**
-    - 📫 How to reach me **lcfhershell@tutanota.com**
-    - ⚡ Fun fact: **I love solving coding puzzles and exploring new technologies.**
+
+- 🔭 I’m currently working on **-|-**
+- 🌱 I’m currently learning **DevOps**
+- 💬 Ask me about **Android, MEARN**
+- 📫 How to reach me **lcfhershell@tutanota.com**
+- ⚡ Fun fact: **I love solving coding puzzles and exploring new technologies.**
 
 ---
 
