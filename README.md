@@ -1,6 +1,5 @@
-<center>
-    [![MasterHead](https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif)](https://github.com/LcfherShell/)
-</center>
+[![MasterHead](https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif)](https://github.com/LcfherShell/)
+
 # Hi 👋, I'm Ramsyan Tungga
 
 As a Full Stack Developer, I am deeply passionate about coding, problem-solving, and creating digital experiences. Since starting my journey in 2019 as a self-taught developer, I have developed expertise in several programming languages, with Python being my primary strength. My dedication to continuous learning has allowed me to master various technologies, enabling me to build robust and scalable web applications and software solutions. I thrive on challenges, constantly improving my skills to stay ahead in the ever-evolving tech landscape.
