@@ -36,7 +36,7 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
 
 ---
 
-<img align="left" width="50%" height="50%" src="./tGYdgD7h7d-unscreen%20(1).gif"/>
+<img align="left" width="20%" height="20%" src="./tGYdgD7h7d-unscreen%20(1).gif"/>
 
 ### Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
