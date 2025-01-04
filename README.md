@@ -73,7 +73,7 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45">
   </div>
 </div>
-</th><th></th>
+</th>
 </table>
 
 
