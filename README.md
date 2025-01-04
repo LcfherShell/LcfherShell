@@ -39,7 +39,7 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
 
 <table>
 <th>
-<img width="45%" height="46%" src="./tGYdgD7h7d-unscreen%20(1).gif"/>
+<img src="./tGYdgD7h7d-unscreen%20(1).gif"/>
 </th>
 <th>
 
