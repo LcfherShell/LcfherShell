@@ -24,6 +24,8 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
 - ⚡ Fun fact: **I love solving coding puzzles and exploring new technologies.**
 <br>
 
+**Hex code:** #3498db
+
 ---
 
 ### Connect with me:
