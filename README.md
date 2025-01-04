@@ -85,12 +85,8 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
 
 #### Design & UI/UX:
 <div style="color: white;">
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    Adobe Illustrator - <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="45" height="45"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    Adobe XD - <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="45" height="45"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Adobe XD" width="45" height="45"/>
 </div>
 
 #### Systems & Platforms:
