@@ -39,7 +39,7 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
 
 <table>
 <th>
-<img width="45%" height="45%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&descAlignY=59&descAlign=49&fontAlignY=0&reversal=false"/>
+<img width="45%" height="46%" src="./tGYdgD7h7d-unscreen%20(1).gif"/>
 </th>
 <th>
 
