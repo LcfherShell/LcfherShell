@@ -37,7 +37,7 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
 ---
 ### Languages and Tools:
 ### Languages:
-<p align="left">
+<p style="align:left; color: white;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="C" width="45" height="45"/>
   </a>
@@ -60,8 +60,9 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45"/>
   </a>
 </p>
+
 ### Frameworks:
-<p align="left" color="white">
+<p style="align:left; color: white;">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="45" height="45"/>
   </a>
@@ -84,40 +85,70 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="45" height="45"/>
   </a>
 </p>
+
 ### Tools:
-- [Docker](https://www.docker.com/) - ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
-- [Git](https://git-scm.com/) - ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-- [Firebase](https://firebase.google.com/) - ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
-- [Postman](https://postman.com) - ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
-- [Figma](https://www.figma.com/) - ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
-- [TensorFlow](https://www.tensorflow.org) - ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
-- [Unity](https://unity.com/) - ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg)
-
-### Library / Platforms:
-- [Flutter](https://flutter.dev) - ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)
-- [Amplify (AWS)](https://aws.amazon.com/amplify/) - ![Amplify](https://docs.amplify.aws/assets/logo-dark.svg)
-- [Arduino](https://www.arduino.cc/) - ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
-- [Bootstrap](https://getbootstrap.com) - ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
-
-### Database and Storage:
-<p align="left" color="white">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/>
+<p style="color: white;">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    Docker - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
   </a>
-  <a href="https://mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    Git - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
   </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    Firebase - <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    Postman - <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    Figma - <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    TensorFlow - <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    Unity - <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="45" height="45"/>
   </a>
 </p>
-### Design & UI/UX:
-- [Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html) - ![Adobe Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg)
-- [Adobe XD](https://www.adobe.com/products/xd.html) - ![Adobe XD](https://cdn.worldvectorlogo.com/logos/adobe-xd.svg)
 
-### Systems & Platforms:
-- [Linux](https://www.linux.org/) - ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-- [Google Cloud](https://cloud.google.com) - ![Google Cloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
+### Library / Platforms:
+<p style="color: white;">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    Flutter - <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/>
+  </a>
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    Amplify (AWS) - <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="Amplify" width="45" height="45"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    Arduino - <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" height="45"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    Bootstrap - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45"/>
+  </a>
+</p>
+
+### Database and Storage:
+<p style="color: white;">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    MySQL - <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://mongodb.com" target="_blank" rel="noreferrer">
+    MongoDB - <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45"/>
+  </a>
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    GraphQL - <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/>
+  </a>
+</p>
+
+### Design & UI/UX:
+<p style="color: white;">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    Linux - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    Google Cloud - <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45"/>
+  </a>
+</p>
 
 ---
 
