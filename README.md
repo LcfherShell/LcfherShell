@@ -85,5 +85,4 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LcfherShell&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LcfherShell&layout=compact&theme=tokyonight)
 
-
-<img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=50&color=gradient&section=footer">
+<img width="100%" align="center" src="https://capsule-render.vercel.app/api?type=waving&height=54&color=gradient&section=footer">
