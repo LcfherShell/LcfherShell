@@ -36,8 +36,7 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
 
 ---
 ### Tech Stack:
-![Background](https://img.freepik.com/free-photo/cement-texture_1194-5269.jpg?t=st=1735967220~exp=1735970820~hmac=7b81a88f4afb76861e206ca6230d2049b4d6c0e430c7e322a8a3526b366cbe5e&w=740)
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; background-color: red;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45">
    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="45" height="45">
