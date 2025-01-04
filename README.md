@@ -42,12 +42,12 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
 ## -Languages:
 | C | C++ | Java | JavaScript | Kotlin | Dart | Python |
 |---|-----|------|------------|--------|------|--------|
-| ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) | ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg) | ![JavaScript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) | ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg) | ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg) | ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="25" height="25"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="25" height="25"> |
 
 ## -Frameworks:
 | Angular | React | Node.js | Express | Flask |
 |---------|-------|---------|---------|-------|
-| ![Angular](https://www.vectorlogo.zone/logos/angular/angular-icon.svg) | ![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg) | ![Node.js](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg) | ![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg) | ![Flask](https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg) |
+| <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="25" height="25"> |  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="25" height="25"> |
 
 ## -Tools:
 | Docker | Git | Firebase | Postman | Figma | TensorFlow | Unity |
