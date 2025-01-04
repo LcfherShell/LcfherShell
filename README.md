@@ -1,3 +1,23 @@
+<style>
+    table {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    td {
+      text-align: center;
+      padding: 10px;
+    }
+    a {
+      text-decoration: none;
+    }
+    img {
+      width: 45px;
+      height: 45px;
+    }
+    h3, h4 {
+      color: black;
+    }
+</style>
 [![MasterHead](https://www.icegif.com/wp-content/uploads/2022/03/icegif-83.gif) ](https://github.com/LcfherShell/)
 # Hi 👋, I'm Ramsyan Tungga
 
@@ -35,9 +55,9 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@nonamearmyid50)
 
 ---
-<h3>Tech Stack:</h3>
+### Tech Stack:
 
-<h4>-Languages:</h4>
+#### Languages:
 <table>
   <tr>
     <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/></a></td>
@@ -50,7 +70,7 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
   </tr>
 </table>
 
-<h4>-Frameworks:</h4>
+#### Frameworks:
 <table>
   <tr>
     <td><a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="45" height="45"/></a></td>
@@ -61,7 +81,7 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
   </tr>
 </table>
 
-<h4>-Tools:</h4>
+#### Tools:
 <table>
   <tr>
     <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/></a></td>
@@ -74,7 +94,7 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
   </tr>
 </table>
 
-<h4>-Library / Platforms:</h4>
+#### Library / Platforms:
 <table>
   <tr>
     <td><a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/></a></td>
@@ -84,7 +104,7 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
   </tr>
 </table>
 
-<h4>-Database and Storage:</h4>
+#### Database and Storage:
 <table>
   <tr>
     <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/></a></td>
@@ -93,7 +113,7 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
   </tr>
 </table>
 
-<h4>-Design & UI/UX:</h4>
+#### Design & UI/UX:
 <table>
   <tr>
     <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/></a></td>
