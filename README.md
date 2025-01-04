@@ -35,14 +35,15 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@nonamearmyid50)
 
 ---
-### Languages and Tools:
-### Languages:
+### Tech Stack:
+
+#### - Languages:
 <p style="align:left; color: white;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/c/c-icon.svg" alt="C" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="C++" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="45" height="45"/>
@@ -61,19 +62,13 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
   </a>
 </p>
 
-### Frameworks:
+#### - Frameworks:
 <p style="align:left; color: white;">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="45" height="45"/>
   </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/angularjs/angularjs-icon.svg" alt="AngularJS" width="45" height="45"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="45" height="45"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/reactnative/reactnative-icon.svg" alt="React Native" width="45" height="45"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="45" height="45"/>
@@ -86,67 +81,67 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
   </a>
 </p>
 
-### Tools:
+#### - Tools:
 <p style="color: white;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    Docker - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    Git - <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    Firebase - <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    Postman - <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    Figma - <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    TensorFlow - <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    Unity - <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="45" height="45"/>
   </a>
 </p>
 
-### Library / Platforms:
+#### - Library / Platforms:
 <p style="color: white;">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    Flutter - <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/>
   </a>
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
-    Amplify (AWS) - <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="Amplify" width="45" height="45"/>
+    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="Amplify" width="45" height="45"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    Arduino - <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" height="45"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="45" height="45"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    Bootstrap - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45"/>
   </a>
 </p>
 
-### Database and Storage:
+#### - Database and Storage:
 <p style="color: white;">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    MySQL - <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/>
   </a>
   <a href="https://mongodb.com" target="_blank" rel="noreferrer">
-    MongoDB - <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="45" height="45"/>
   </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    GraphQL - <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/>
+   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="45" height="45"/>
   </a>
 </p>
 
-### Design & UI/UX:
+#### - Design & UI/UX:
 <p style="color: white;">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    Linux - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    Google Cloud - <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="45" height="45"/>
   </a>
 </p>
 
