@@ -47,27 +47,27 @@ A dedicated and enthusiastic FullStack Developer from Indonesia, passionate abou
 ## -Frameworks:
 | Angular | React | Node.js | Express | Flask |
 |---------|-------|---------|---------|-------|
-| <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="25" height="25"> |  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="25" height="25"> |
+| <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="25" height="25"> |
 
 ## -Tools:
 | Docker | Git | Firebase | Postman | Figma | TensorFlow | Unity |
 |--------|-----|----------|---------|-------|------------|-------|
-| ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) | ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) | ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) | ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) | ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) | ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="25" height="25"> |
 
 ## -Library / Platforms:
 | Flutter | Amplify | Arduino | Bootstrap |
 |---------|---------|---------|-----------|
-| ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg) | ![Amplify](https://docs.amplify.aws/assets/logo-dark.svg) | ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg) | ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) |
+| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="25" height="25"> | <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="Amplify" width="25" height="25"> | <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="25" height="25"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="25" height="25"> |
 
 ## -Database and Storage:
 | MySQL | MongoDB | GraphQL |
 |-------|---------|---------|
-| ![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg) | ![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg) | ![GraphQL](https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg) |
+| <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="25" height="25"> |
 
 ## -Design & UI/UX:
 | Linux | Google Cloud |
 |-------|--------------|
-| ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) | ![Google Cloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25"> | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="25" height="25"> |
 
 
 ---
