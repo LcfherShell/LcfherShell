@@ -23,6 +23,7 @@ As a Full Stack Developer, I am deeply passionate about coding, problem-solving,
 - 📫 How to reach me **lcfhershell@tutanota.com**
 - ⚡ Fun fact: **I love solving coding puzzles and exploring new technologies.**
 <br>
+
 ---
 
 ### Connect with me:
